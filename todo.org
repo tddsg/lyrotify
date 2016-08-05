@@ -1,0 +1,12 @@
+* TASK
+
+** TODO: show lyrics
+** TODO: translate lyrics
+
+* GOAL:
+
+** Features:
+
+ - can show lyrics of spotify
+ - can translate lyrics
+ - written by OCaml
